@@ -1,0 +1,20 @@
+h1, p{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+p {
+    width: 350px;
+    height: 220px;
+    padding-top: 15px;
+    padding-left: 10px;
+    padding-bottom: 20px;
+    padding-right: 10px;
+    margin-bottom: 30px;
+    border-style: dotted;
+    border-color: red;
+    border-width: 2px;
+    background-color: green;
+}
